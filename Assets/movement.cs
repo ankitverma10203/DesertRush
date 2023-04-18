@@ -9,7 +9,7 @@ public class movement : MonoBehaviour
      SpriteRenderer sprite;
 
 
-    [SerializeField] int JUMPHEIGHT = 20;
+    [SerializeField] int JUMPHEIGHT = 40;
     [SerializeField] float HORIZONTALDIRECTIONSPEED = 7.0f;
 
     // Start is called before the first frame update
